@@ -1,10 +1,9 @@
-
-working 100%
-===========
-File Making Tool
-Working
+FILE CLONE
+RANDOM CLONE
+VT 64
+WORKING DATA + WI-FI 
+===================
 ---------------
-
 $ pkg update
 
 $ pkg upgrade
