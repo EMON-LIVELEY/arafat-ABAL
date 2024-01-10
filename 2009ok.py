@@ -1,10 +1,7 @@
-#Create By: AKASH
-#FaceBook: Akash Das
-#GitHub: https://github.com/akashmatli
+#Create By: Emon
+#FaceBook: Emon
+#GitHub: https://github.com/EMON-LIVELEY
 #---------------------------------------------------------------------------#
-bot_token ='6736222733:AAH6DmeL_-YKdRR9uzOsTXgDMw4UEJB8UmU' 
-    chat_id ='5983799360'
-
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
